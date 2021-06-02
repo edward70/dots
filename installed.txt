@@ -3,6 +3,7 @@ app-admin/sudo
 app-admin/sysklogd
 app-arch/lz4
 app-arch/lzop
+app-arch/p7zip
 app-arch/zip
 app-editors/neovim
 app-misc/neofetch
@@ -29,7 +30,6 @@ sys-boot/efibootmgr
 sys-firmware/intel-microcode
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
-sys-libs/gpm
 sys-power/acpi
 sys-power/acpilight
 sys-process/htop
