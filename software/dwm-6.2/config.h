@@ -72,8 +72,8 @@ static const char *upvol[] = { "amixer", "set", "Master", "2+", NULL };
 static const char *downvol[] = { "amixer", "set", "Master", "2-", NULL };
 // for muting/unmuting //
 static const char *mute[] = { "amixer", "-q", "set", "Master", "toggle", NULL };
-static const char *upbright[] = {"xbacklight", "-inc", "20"};
-static const char *downbright[] = {"xbacklight", "-dec", "20"};
+static const char *upbright[] = {"xbacklight", "-inc", "5"};
+static const char *downbright[] = {"xbacklight", "-dec", "5"};
 
 
 static Key keys[] = {
