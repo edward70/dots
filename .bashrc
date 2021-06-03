@@ -16,7 +16,4 @@ fi
 
 
 # Put your fun stuff here.
-alias vi='nvim'
-alias vim='nvim'
-
 export EDITOR="/usr/bin/nvim"
