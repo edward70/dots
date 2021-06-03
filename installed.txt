@@ -6,6 +6,7 @@ app-arch/lzop
 app-arch/p7zip
 app-arch/zip
 app-editors/neovim
+app-laptop/laptop-mode-tools
 app-misc/neofetch
 app-shells/bash
 dev-python/pip
@@ -19,6 +20,7 @@ media-libs/fontconfig
 media-libs/imlib
 media-sound/alsa-utils
 media-sound/pnmixer
+media-video/vlc
 net-im/zoom
 net-misc/chrony
 net-misc/curl
@@ -31,7 +33,9 @@ sys-firmware/intel-microcode
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/acpi
+sys-power/acpid
 sys-power/acpilight
+sys-power/thermald
 sys-process/htop
 www-client/google-chrome
 www-client/w3m
