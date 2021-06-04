@@ -4,6 +4,7 @@ app-admin/sysklogd
 app-arch/lz4
 app-arch/lzop
 app-arch/p7zip
+app-arch/xarchiver
 app-arch/zip
 app-editors/neovim
 app-laptop/laptop-mode-tools
