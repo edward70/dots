@@ -14,7 +14,7 @@ xrdb ~/.Xresources &
 # sys tray icons
 nm-applet &
 pnmixer &
-flameshot &
+flatpak run org.flameshot.Flameshot &
 
 # compositor
 picom --daemon

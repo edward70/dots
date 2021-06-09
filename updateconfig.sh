@@ -28,3 +28,10 @@ rm -rf ~/.local/share/fonts
 mkdir -p ~/.local/share/fonts
 cp fonts/* ~/.local/share/fonts
 fc-cache -fv
+
+# rofi
+cp config.rasi ~/.config/rofi/config.rasi
+cp roficonfig ~/.config/rofi/config
+
+# wallpaper
+cp wallpaper.jpg ~/Pictures/wallpaper.jpg
