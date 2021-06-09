@@ -16,4 +16,4 @@ fi
 
 
 # Put your fun stuff here.
-export EDITOR="/usr/bin/nvim"
+export EDITOR="/usr/bin/vim"

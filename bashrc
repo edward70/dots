@@ -107,4 +107,4 @@ done
 # Try to keep environment pollution down, EPA loves us.
 unset use_color sh
 
-export EDITOR="/usr/bin/nvim"
+export EDITOR="/usr/bin/vim"

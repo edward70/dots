@@ -1,2 +1,4 @@
 #!/bin/bash
-cat /var/lib/portage/world
+WORLD=/var/lib/portage/world
+cat $WORLD
+cat $WORLD > installed.txt
